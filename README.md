@@ -42,7 +42,14 @@ Una ciudad se diseño de tal modo que todas sus calles fueran de una sola vía. 
 
 Para el caso de este punto se puede correr de la siguiente manera en consola:
 ```bash
-python "$Path_archivo_python/" "$Path_archivo_datos"
+python "$Path_archivo_python/problema_bancos" "$Path_archivo_datos"
+```
+El archivo de python se llama ```problema_amigos.py``` y se propone un ejemplo en la carpeta datos que se llamado ```datos_punto2.txt```. La estructura del archivo a probar debe ser parecida a:
+```
+1 2 3
+2 3
+-
+-
 ```
 
 ### Punto 2:
