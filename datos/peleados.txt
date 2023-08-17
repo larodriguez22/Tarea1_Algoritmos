@@ -1,0 +1,9 @@
+juan,pablo
+pablo,andres
+pepito,pepita
+andres,pepito
+juan,pepito
+pepita,pablo
+samuel,juan
+samuel,john
+john,nicolas
