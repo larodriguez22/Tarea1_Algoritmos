@@ -8,7 +8,7 @@ En este repositorio se muestran las soluciones a 3 diferentes enunciados
 ## Características
 
 - Juan Fernando - 201623311
-- Juan Camilo Bonet
+- Juan Camilo Bonet - 202022466
 - Laura Rodriguez - 201816069
 
 ## Instalación
