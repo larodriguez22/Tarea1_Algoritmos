@@ -28,13 +28,30 @@ k>1 Λ e1 = ek Λ (∀i | 1≤i<k : p(ei,ei+1))\
 
 Dada la relación p de prestamos entre entidades, determinar si existe algún autopréstamo.
 
+Las especificaciones para este grafo son:
+- Vertices: Entidades $e_1, e_2,…,e_k$
+- Arcos: El registro de préstamos $p(i,j)$ 
+- Es direccionado
+- No tiene pesos
+
 ### Punto 2:
 
 Juan quiere invitar a sus amigos a conocer su nuevo apartamento. Sin embargo tiene la dificultad de que sus amigos son algo conflictivos y entonces sabe que varias parejas de amigos se han peleado entre ellos. Debido a esto, tomó la decisión de organizar dos reuniones. Diseñe un algoritmo que determine si es posible distribuir a los amigos de Juan en dos grupos de tal manera que dentro de cada grupo no haya parejas de personas que se hayan peleado entre ellas.
 
+Las especificaciones para este grafo son:
+- Vertices: Amigos de Juan
+- Arcos: Relacion de peleas entre los amigos de Juan
+- No direccionado
+- No tiene pesos
+
 ### Punto 3:
 
 Una ciudad se diseño de tal modo que todas sus calles fueran de una sola vía. Con el paso del tiempo la cantidad de habitantes de la ciudad creció y esto produjo grandes trancones en algunas de las vias debido a algunos desvíos innecesarios que tienen que tomar los habitantes de la ciudad para poder llegar a sus trabajos. Por lo tanto, el alcalde tomó la decisión de ampliar algunas vias para que puedan convertirse en doble via. Dado el mapa de la ciudad y el costo de convertir cada via actual en doble via, determinar qué vias se deben convertir, de modo que se pueda transitar de cualquier punto a cualquier punto de la ciudad por dobles vias y que el costo de la conversión sea el mínimo posible.
+Las especificaciones para este grafo son:
+- Vertices: puntos de la ciudad
+- Arcos: Calles de la ciudad
+- Direccionado
+- Tiene pesos y son el costo de construir la doble via
 
 ## Uso
 
