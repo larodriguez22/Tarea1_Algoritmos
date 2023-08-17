@@ -61,7 +61,8 @@ Para el caso de este punto se puede correr de la siguiente manera en consola:
 ```bash
 python "$Path_archivo_python/problema_bancos" "$Path_archivo_datos"
 ```
-El archivo de python se llama ```problema_amigos.py``` y se propone un ejemplo en la carpeta datos que se llamado ```datos_punto2.txt```. La estructura del archivo a probar debe ser parecida a:
+El archivo de python se llama ```problema_amigos.py``` y se propone un ejemplo en la carpeta datos que se llamado ```datos_punto2.txt```. La estructura del archivo a probar debe ser parecida a, donde los vértices están enumerados, desde el 0 hasta el vértice n-1. La estructura del archivo asume que cada fila es una de las listas de adyacencia de un vértice. Cada uno de los arcos está separado por un espacio en blanco.  Si se hace referencia a un vértice que no existe, el algoritmo fallará. Finalmente, si un vértice no tiene arcos que salen de él, se deberá colocar un "-" en lugar de una lista de números.
+
 ```
 1 2 3
 2 3
