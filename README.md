@@ -3,13 +3,13 @@
 
 ## Descripción
 
-Este proyecto se centra en la visualización de grafos utilizando las bibliotecas Matplotlib, NumPy y NetworkX en Python. Proporciona herramientas para crear, dibujar y analizar grafos, lo que puede ser útil en diversas aplicaciones, como análisis de redes sociales, problemas de asignación y más.
+En este repositorio se muestran las soluciones a 3 diferentes enunciados
 
 ## Características
 
-- Creación y manipulación de grafos utilizando la biblioteca NetworkX.
-- Dibujo de grafos en una ventana emergente utilizando Matplotlib.
-- Análisis básico de la estructura del grafo.
+- Juan Fernando - 201623311
+- Juan Camilo Bonet
+- Laura Rodriguez - 201816069
 
 ## Instalación
 
